@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot Finished project](assets\design\screenshot.jpg)
+![Screenshot Finished project](assets\design\screenshot-solution.jpg)
 
 ### Links
 
