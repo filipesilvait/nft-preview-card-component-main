@@ -47,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned more about flexbox, I learned to separate content with the <hr> tag. I also learned how to style with border-shadow and use hover and an overlay image.
+I learned more about flexbox, I learned to separate content with the >hr< tag. I also learned how to style with border-shadow and use hover and an overlay image.
 
 ```css
 .img-overlay {
