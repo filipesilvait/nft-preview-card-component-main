@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets\design\screenshot.png)
+![Screenshot Finished project](assets\design\screenshot.png)
 
 ### Links
 
