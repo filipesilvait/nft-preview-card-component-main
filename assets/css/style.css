@@ -1,3 +1,121 @@
 body {
     font-family: 'Outfit', sans-serif;
+    background-color: hsl(217, 54%, 11%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 350px;
+    margin: 0 auto;
+}
+
+.card {
+    margin: 2rem 1rem;
+    padding: 20px;
+    background-color: hsl(216, 50%, 16%);
+    box-shadow: 0 0 30px 5px rgba(0,0,0,0.50);
+    border-radius: 13px;
+}
+
+.img-nft {
+    border-radius: 7px;
+    overflow: hidden;
+    position: relative;
+}
+
+.img-nft img {
+    width: 100%;
+    display: block;
+}
+
+.img-overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: hsl(178, 100%, 50%, 0.5);
+    display: none;
+}
+
+.img-overlay img {
+    position: absolute;
+    width: 50px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.img-nft:hover .img-overlay {
+    display: block;
+    cursor: pointer;
+}
+
+.box-text a {
+    color: hsl(0, 0%, 100%);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 20px 0;
+    display: inline-block;
+}
+
+.box-text a:hover {
+    color: hsl(178, 100%, 50%);
+}
+
+p {
+    color: hsl(215, 51%, 70%);
+}
+
+.currency-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 0;
+}
+
+.icon-eth, .expiration {
+    display: flex;
+    align-items: center;
+}
+
+.icon-eth p {
+    color: hsl(178, 100%, 50%);
+    font-weight: 400;
+    padding-left: 6px;
+}
+
+.expiration p {
+    padding-left: 6px;
+}
+
+hr {
+    border-color: hsl(215, 32%, 27%);
+}
+
+.author {
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.author img {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: 1px solid hsl(0, 0%, 100%);
+    margin-right: 15px;
+}
+
+.author a {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.author a:hover {
+    color: hsl(178, 100%, 50%);
 }
