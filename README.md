@@ -2,11 +2,11 @@
 
 # NFT preview card component solution
 
-This project was developed from a [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). 
+Esse projeto foi desenvolvido de um desafio do [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). 
 
-The challenge is to build out this preview card component and get it looking as close to the design as possible.
+O desafio foi construir esse cartão de visualização e deixá-lo o mais próximo possível do design original.
 
-This is a solution to the Frontend Mentor challenge help improve coding skills by building realistic projects.
+Esta é uma solução para o desafio do Frontend Mentor, onde ajuda a melhorar as habilidades praticas com o código, através da criação de projetos realistas.
 
 ## Table of contents
 
@@ -24,10 +24,10 @@ This is a solution to the Frontend Mentor challenge help improve coding skills b
 
 ### The challenge
 
-Users should be able to:
+Os usuários devem ser capazes de:
 
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+- Visualizar o layout ideal depedendo do tamanho da tela do dispositivo
+- Vizualizar os elementos interativos.
 
 ### Screenshot
 
@@ -47,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned more about flexbox, I learned to separate content with the >hr< tag. I also learned how to style with border-shadow and use hover and an overlay image.
+Aprendi mais sobre flexbox, estilizar com border-shadow, usar o hover e sobrepor uma imagem.
 
 ```css
 .img-overlay {
@@ -72,7 +72,7 @@ I learned more about flexbox, I learned to separate content with the >hr< tag. I
 
 ### Continued development
 
-I will continue to learn more about semantic HTML5. Solidify, refine and learn more about flexbox, styles, positions and decorations.
+Vou continuar aprendendo mais sobre HTML semântico. Aprender e praticar com CSS, flexbox, styles, positions e decorations.
 
 ## Author
 
